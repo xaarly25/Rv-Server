@@ -1,4 +1,4 @@
-[custom-fail2ban]
+[wordfence-fail2ban]
 enabled  = true
 port     = 80,443
 filter   = custom-fail2ban
