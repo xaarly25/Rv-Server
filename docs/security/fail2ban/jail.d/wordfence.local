@@ -1,0 +1,7 @@
+[wordfence-fail2ban]
+enabled  = true
+port     = 80,443
+filter   = custom-fail2ban
+logpath  = /var/www/html/revival/wp-content/plugins/fail2ban.log
+maxretry = 1
+bantime  = 3600000
