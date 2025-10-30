@@ -1,7 +1,7 @@
 
-# Revival Lo Rural – Infraestructura 🌐
+# rv&cafeconbits – Infraestructura 🌐
 
-Este repositorio documenta la infraestructura técnica y arquitectónica del proyecto **Revival Lo Rural**, una plataforma creada para conectar trabajadores remotos y nómadas digitales con comunidades rurales.
+Este repositorio documenta la infraestructura técnica y arquitectónica del proyecto **rv&cafeconbits**.
 
 > 🔒 Este repositorio **NO contiene el código fuente del proyecto** por razones de privacidad y seguridad. Solo incluye documentación de infraestructura.
 
